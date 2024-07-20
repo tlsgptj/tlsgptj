@@ -25,6 +25,17 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-8BC34A.svg?&style=for-the-badge&logo=fire&logoColor=white)
 
-### 
-
-
+### 수상
+- **전력 전자학회 캡스톤 경진대회 대상 수상**
+- **전남대 여수창업보육센터 창업경진대회 우수상 수상**
+- **2023 광주 전남 대학생 창업 경진대회 장려상 수상**
+- **2022 리더스컨퍼런스 우수상 (르완다 주거문제 기획 프로젝트 진행)**
+- **2022 리더스컨퍼런스 보츠와나 문화체육부 장관상**
+- **데이터 활용 해커톤 경진대회 우수상**
+- **2023 에어 메이커 해커톤 장려상**
+- **전북대학교 주관 실리콘벨리 창업연수 창업경진대회 2등 우수상**
+- **2023 동계 AI 로봇제작 경진대회 장려상**
+- **창의적 사업계획서 경진대회 우수상**
+- **SK sunic 전통시장 소상공인을 위한 게임 기획 및 제작 project1 최우수상**
+- **2023 전남 ict이노베이션스퀘어 디지털 신기술 분야 아이디어 공모전 대상**
+- **2024 업사이클 메이커톤 메이크 섬 노이즈 우수상**
