@@ -14,6 +14,8 @@
 ![Python](https://img.shields.io/badge/Python-F80000.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-FFA000.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-388E3C.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-000000.svg?&style=for-the-badge&logo=C&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-808080.svg?&style=for-the-badge&logo=amazon&logoColor=white)
 
 
 ### Tools
@@ -21,7 +23,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-8BC34A.svg?&style=for-the-badge&logo=Fire&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-8BC34A.svg?&style=for-the-badge&logo=fire&logoColor=white)
 
 ### 
 
