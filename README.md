@@ -16,6 +16,8 @@
 ![flask](https://img.shields.io/badge/flask-388E3C.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-808080.svg?&style=for-the-badge&logo=amazon&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-808080.svg?&style=for-the-badge&logo=amazon&logoColor=white)
+
 
 
 ### Tools
