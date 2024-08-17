@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tlsgptj)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
-![Next.js](https://img.shields.io/badge/Next.js-007396.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-007396.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-3178C6.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
