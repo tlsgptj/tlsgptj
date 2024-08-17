@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tlsgptj)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-007396.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-3178C6.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -15,7 +15,6 @@
 ![flutter](https://img.shields.io/badge/flutter-FFA000.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-388E3C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000.svg?&style=for-the-badge&logo=C&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-808080.svg?&style=for-the-badge&logo=amazon&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3178C6.svg?&style=for-the-badge&logo=dart&logoColor=white)
 
 
