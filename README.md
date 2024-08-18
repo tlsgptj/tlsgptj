@@ -15,8 +15,8 @@
 ![Python](https://img.shields.io/badge/Python-F80000.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-FFA000.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-388E3C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-000000.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3178C6.svg?&style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 
 
 
