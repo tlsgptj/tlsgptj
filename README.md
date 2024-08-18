@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-8BC34A.svg?&style=for-the-badge&logo=fire&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E95420.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFCE00.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 수상
