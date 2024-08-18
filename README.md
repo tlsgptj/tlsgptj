@@ -27,6 +27,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-8BC34A.svg?&style=for-the-badge&logo=fire&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E95420.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 수상
 - **전력 전자학회 캡스톤 경진대회 대상 수상**
