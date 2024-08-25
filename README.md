@@ -17,6 +17,8 @@
 ![javascript](https://img.shields.io/badge/javascript-388E3C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B.svg?&style=for-the-badge&logo=Prisma&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?&style=for-the-badge&logo=postgreSQL&logoColor=white)
 
 
 
