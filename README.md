@@ -31,7 +31,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FFCE00.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 수상 (14)
+### 수상 (15)
 - **전력 전자학회 캡스톤 경진대회 대상 수상**
 - **전남대 여수창업보육센터 창업경진대회 우수상 수상**
 - **2023 광주 전남 대학생 창업 경진대회 장려상 수상**
