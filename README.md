@@ -2,7 +2,6 @@
 ## HyeseoShin 👋
 ![tlsgptj's github stats](https://github-readme-stats.vercel.app/api?username=tlsgptj&show_icons=true) 
 [![tlsgptj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsgptj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tlsgptj)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=tlsgptj)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
@@ -19,8 +18,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B.svg?&style=for-the-badge&logo=Prisma&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?&style=for-the-badge&logo=postgreSQL&logoColor=white)
-
-
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
