@@ -29,8 +29,8 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Learning
-![Vue.js](https://img.shields.io/badge/Vue.js-E95420.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-E95420.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b983.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 수상 (18)
 - **전력 전자학회 캡스톤 경진대회 대상 수상**
