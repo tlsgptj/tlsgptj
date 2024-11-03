@@ -27,6 +27,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-8BC34A.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFCE00.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
+![intellij](https://img.shields.io/badge/intellij-FFC66D.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## Learning
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b983.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
