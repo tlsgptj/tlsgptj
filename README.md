@@ -18,6 +18,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B.svg?&style=for-the-badge&logo=Prisma&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?&style=for-the-badge&logo=postgreSQL&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-1C3F95.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
