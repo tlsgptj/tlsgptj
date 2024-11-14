@@ -35,7 +35,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b983.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
-### 수상 (18)
+### 수상 (19)
 - **전력 전자학회 캡스톤 경진대회 대상 수상**
 - **전남대 여수창업보육센터 창업경진대회 우수상 수상**
 - **2023 광주 전남 대학생 창업 경진대회 장려상 수상**
@@ -54,3 +54,4 @@
 - **2024 제2회 광주광역시 북구청장배 청년창업 아이디어 경진대회 장려상**
 - **2024 전남대학교 대학생/대학원생 창업경진대회 최우수상**
 - **2024 한국생물공학회 추계 캡스톤디자인 경진대회 은상(한국생물공학회장상)**
+- **2024 대학생소셜벤처아이디어 공모전 우수상**
