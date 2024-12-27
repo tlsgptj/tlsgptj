@@ -36,6 +36,7 @@
 ## Learning
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b983.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 ### 수상 (19)
 - **전력 전자학회 캡스톤 경진대회 대상 수상**
