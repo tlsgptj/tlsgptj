@@ -6,8 +6,6 @@
 
 ### Skills
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -32,11 +30,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FFCE00.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-FFC66D.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-
-## Learning
-![Vue.js](https://img.shields.io/badge/Vue.js-42b983.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 ### 수상 (19)
 - **전력 전자학회 캡스톤 경진대회 대상 수상**
