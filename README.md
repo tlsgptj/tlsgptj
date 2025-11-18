@@ -6,18 +6,12 @@
 
 ### Skills
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F80000.svg?&style=for-the-badge&logo=python&logoColor=white)
-![flutter](https://img.shields.io/badge/flutter-FFA000.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-388E3C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?&style=for-the-badge&logo=postgreSQL&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-1C3F95.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-339933.svg?&style=for-the-badge&logo=react&logoColor=white)
 
