@@ -1,16 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=tlsgptj&color=green)
-## HyeseoShin 👋
-
-### Skills
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F80000.svg?&style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-388E3C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![postgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?&style=for-the-badge&logo=postgreSQL&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-1C3F95.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![React Native](https://img.shields.io/badge/ReactNative-339933.svg?&style=for-the-badge&logo=react&logoColor=white)
+## HyeseoShin 
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
